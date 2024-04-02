@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Matthewdavoren
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Java, Javascript, HTML, and CSS.
+- 👀 I’m interested in Java Development
+- 🌱 I’m currently learning Java, HTML, and CSS.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 

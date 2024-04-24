@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Matthewdavoren
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Java, HTML, and CSS.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 💞️ I’m looking to collaborate on Java projects
 
 <!---
 Matthewdavoren/Matthewdavoren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Matthewdavoren
-- 💞️ I’m looking to collaborate on Java projects
+- Languages: Java (17,21), Python, Javascript, HTML, CSS, SQL
+- Website/Portfolio: https://www.matthewdavoren.com
+- LinkedIn: https://www.linkedin.com/in/matthewmichaeldavoren
 
 <!---
 Matthewdavoren/Matthewdavoren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
